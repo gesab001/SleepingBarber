@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 /**
  * A Sleeping Barber Algorithm implementation
  *
- * @author Lukasz Grzegorz Maciak
+ * @author Giovanni Saberon
  */
 
 public class Main {
