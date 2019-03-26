@@ -11,7 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author 14400
+ * @author Giovanni Saberon
  */
 public class WaitingRoom {
     Semaphore waiting_chairs;

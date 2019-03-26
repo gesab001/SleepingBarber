@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author 14400
+ * @author Giovanni Saberon
  */
 public class Customer implements Runnable {
     Barber barber;
